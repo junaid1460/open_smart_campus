@@ -1,1 +1,2 @@
+thanks to
 django-admin.py startproject --template=https://github.com/heroku/heroku-django-template/archive/master.zip --name=Procfile helloworld
